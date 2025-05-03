@@ -17,7 +17,7 @@ The goal is to craft a clear, concise, and compelling resume that not only refle
 
 ### Submission Guidelines
 
-1. Finalise your resume in Google Docs format to ensure consistent formatting.
+1. Finalize your resume in Google Docs format to ensure consistent formatting.
 2. Name your document following the specified format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV03").
 3. Add the link to your Google Docs resume in this README.
 4. Submit the link to your GitHub Repo via the LMS Project Tab by the submission deadline.
